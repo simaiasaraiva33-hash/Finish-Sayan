@@ -1,10 +1,10 @@
 {
   "avisos": [
     {
-      "id": "boas-vindas-6",
-      "ativo": false,
+      "id": "Boas-vindas-V6",
+      "ativo": true,
       "tipo": "novidade",
-      "titulo": "Bem-vindo ao Finish Cliker V6!",
+      "titulo": "Bem-vindo ao Finish Cliker 6!",
       "texto": "Agora o autoclicker liga e desliga pelo **F6**. Veja tudo em *Configurações → Ver novidades*.",
       "link": "https://github.com/simaiasaraiva33-hash/Finish-Sayan/releases",
       "link_texto": "Ver no GitHub",
@@ -12,7 +12,7 @@
     },
     {
       "id": "manutencao-exemplo",
-      "ativo": true,
+      "ativo": false,
       "tipo": "alerta",
       "titulo": "Manutenção no servidor de transmissão",
       "texto": "A transmissão de tela pode ficar instável hoje das 20h às 22h.",
