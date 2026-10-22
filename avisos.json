@@ -2,7 +2,7 @@
   "avisos": [
     {
       "id": "Boas-vindas-V6",
-      "ativo": true,
+      "ativo": false,
       "tipo": "novidades",
       "titulo": "Bem-vindo ao Sintia Danada 6!",
       "texto": "Agora o autoclicker liga e desliga pelo **F6**. Veja tudo em *Configurações → Ver novidades*.",
