@@ -2,9 +2,9 @@
   "avisos": [
     {
       "id": "boas-vindas-6",
-      "ativo": false,
+      "ativo": true,
       "tipo": "novidade",
-      "titulo": "Bem-vindo ao Finish Cliker 6!",
+      "titulo": "Bem-vindo ao Finish Cliker V6!",
       "texto": "Agora o autoclicker liga e desliga pelo **F6**. Veja tudo em *Configurações → Ver novidades*.",
       "link": "https://github.com/simaiasaraiva33-hash/Finish-Sayan/releases",
       "link_texto": "Ver no GitHub",
