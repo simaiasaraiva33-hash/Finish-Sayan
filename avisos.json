@@ -2,7 +2,7 @@
   "avisos": [
     {
       "id": "boas-vindas-6",
-      "ativo": true,
+      "ativo": false,
       "tipo": "novidade",
       "titulo": "Bem-vindo ao Finish Cliker V6!",
       "texto": "Agora o autoclicker liga e desliga pelo **F6**. Veja tudo em *Configurações → Ver novidades*.",
@@ -12,7 +12,7 @@
     },
     {
       "id": "manutencao-exemplo",
-      "ativo": false,
+      "ativo": true,
       "tipo": "alerta",
       "titulo": "Manutenção no servidor de transmissão",
       "texto": "A transmissão de tela pode ficar instável hoje das 20h às 22h.",
