@@ -1,6 +1,6 @@
 # 🚀 Finish Clicker — Desenvolvimento em constante evolução
 
-O **Finish Clicker** é um projeto independente, desenvolvido com dedicação e em constante evolução. Atualmente, o código-fonte completo ainda não está disponível publicamente, mas o desenvolvimento continua ativo, com novas funcionalidades, melhorias e correções sendo implementadas ao longo do tempo.
+O **Finish Clicker** é um projeto independente, desenvolvido com dedicação e em constante evolução. Atualmente, o código-fonte completo ainda não está disponível publicamente, pois eu fiz do zero e tenho muito apego, talvez eu solte aqui em breve, mas o desenvolvimento continua ativo, com novas funcionalidades, melhorias e correções sendo implementadas ao longo do tempo.
 
 ## 📌 Como tudo começou?
 
@@ -24,7 +24,7 @@ Embora ainda esteja em desenvolvimento e não tenha alcançado sua versão final
 
 - **WhatsApp:** integração direta para enviar mensagens, imagens e arquivos sem precisar abrir a interface do aplicativo.
 - **Roblox:** possibilidade de abrir praticamente qualquer jogo apenas falando seu nome.
-- **Steam:** adicionar jogos à biblioteca, inclusive títulos pagos, sem precisar reiniciar a Steam.
+- **Steam:** adicionar jogos à biblioteca, inclusive títulos pagos, sem precisar reiniciar a Steam. (Método luatools)
 - **Controle do computador:** abrir aplicativos, executar tarefas, solucionar problemas e interagir com diferentes recursos do Windows.
 - **Vídeos e filmes:** reproduzir conteúdos diretamente na interface do Finish Clicker, sem precisar abrir o navegador.
 - **Criação e leitura de projetos:** capacidade de trabalhar com arquivos, analisar projetos e auxiliar em diferentes tarefas.
